@@ -1,1 +1,1 @@
-Série de exercícios Web, utilizando HTML, CSS e Javascript
+Série de exercícios Web, utilizando HTML e CSS
